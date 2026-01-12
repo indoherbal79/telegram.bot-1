@@ -1,7 +1,7 @@
 import requests
 import time
 
-TOKEN = 7432590124:AAE2WaUxe-xjkQ7a9Biwk1YWkGU_pFSCj24"
+TOKEN = 7432590124:AAG7fcxBCWr41n2a-03Ha0XlzFE9abthvSM
 CHAT_ID = "303839054"
 
 URL = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
